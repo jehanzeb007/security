@@ -1,0 +1,13 @@
+{
+    "name": "secure/hippa",
+    "description": "A Simple package for hippa complience setting",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jehanzeb Sarfraz",
+            "email": "jehanzebsherali@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
